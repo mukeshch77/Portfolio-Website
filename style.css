@@ -218,23 +218,12 @@ section {
 
 /* ICONS */
 
-.icon-G {
-  cursor: pointer;
-  margin: 8px;
-  height: 2rem;
-  /* opacity: ; */
-}
-.icon-L{
-  cursor: pointer;
-  height: 3rem;
-  /* opacity: ; */
-}
-
 .icon {
   cursor: pointer;
+  margin: 4px;
   height: 2rem;
-  /* opacity: ; */
 }
+
 
 /* BUTTONS */
 
